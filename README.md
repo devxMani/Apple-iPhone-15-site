@@ -11,13 +11,13 @@
 
    
 <h4>
-    <a href="https://therinkit-appleclone.vercel.app">View Demo</a>
+    <a href="https://apple-i-phone-15-site.vercel.app/">View Demo</a>
   <span> · </span>
-    <a href="https://github.com/rinkitadhana/iPhone15-Apple-Clone">Documentation</a>
+    <a href="https://github.com/devxMani/Apple-iPhone-15-site">Documentation</a>
   <span> · </span>
-    <a href="https://github.com/rinkitadhana/iPhone15-Apple-Clone/issues/">Report Bug</a>
+    <a href="https://github.com/devxMani/Apple-iPhone-15-site/issues/">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/rinkitadhana/iPhone15-Apple-Clone/issues/">Request Feature</a>
+    <a href="https://github.com/devxMani/Apple-iPhone-15-site/issues/">Request Feature</a>
   </h4>
 </div>
 
@@ -107,14 +107,7 @@ Start the server
 <!-- Contributing -->
 ## Contributing
 
-<a href="https://github.com/rinkitadhana/The-Daily-Crimes/contributors">
-  <img src="https://contrib.rocks/image?repo=rinkitadhana/The-Daily-Crimes" />
-</a>
-
-
 Contributions are always welcome!
-
-
 
 <!-- Contact -->
 ##  Contact
