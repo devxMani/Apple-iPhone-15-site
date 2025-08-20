@@ -2,32 +2,13 @@
 <div align="center">
 
   <img src="https://github.com/user-attachments/assets/db8be64e-daf8-4585-8410-11d5ce737f57" alt="logo" width="200" height="auto" />
-  <h1>iPhone 15 Pro Website Clone</h1>
+  <h1>iPhone 15 Pro Website</h1>
   
   <p>
     This is a clone website of the iPhone 15 Pro, featuring 3D models and dynamic animations that bring the device to life. The smooth interactions and immersive visuals replicate the experience of a real product site. Explore every detail as if you’re navigating the official Apple page.
   </p>
   
-  
-<!-- Badges -->
-<p>
-  <a href="https://github.com/rinkitadhana/iPhone15-Apple-Clone">
-    <img src="https://img.shields.io/github/contributors/rinkitadhana/iPhone15-Apple-Clone" alt="contributors" />
-  </a>
-  <a href="https://github.com/rinkitadhana/iPhone15-Apple-Clone">
-    <img src="https://img.shields.io/github/last-commit/rinkitadhana/iPhone15-Apple-Clone" alt="last update" />
-  </a>
-  <a href="https://github.com/rinkitadhana/iPhone15-Apple-Clone">
-    <img src="https://img.shields.io/github/forks/rinkitadhana/iPhone15-Apple-Clone" alt="forks" />
-  </a>
-  <a href="https://github.com/rinkitadhana/iPhone15-Apple-Clone">
-    <img src="https://img.shields.io/github/stars/rinkitadhana/iPhone15-Apple-Clone" alt="stars" />
-  </a>
-  <a href="https://github.com/rinkitadhana/iPhone15-Apple-Clone">
-    <img src="https://img.shields.io/github/issues/rinkitadhana/iPhone15-Apple-Clone" alt="open issues" />
-  </a>
- 
-</p>
+
    
 <h4>
     <a href="https://therinkit-appleclone.vercel.app">View Demo</a>
