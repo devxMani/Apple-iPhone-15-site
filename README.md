@@ -112,7 +112,7 @@ Contributions are always welcome!
 <!-- Contact -->
 ##  Contact
 
-Rinkit Adhana - [@damnGruz](https://twitter.com/damnGruz) - therinkit@gmail.com
+Mani - [@devxMani](https://x.com/devxMani) 
 
 Portfolio - [therinkit.online](https://therinkit.online)
 
